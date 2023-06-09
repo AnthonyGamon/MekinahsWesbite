@@ -80,9 +80,9 @@ a {
 }
 
 a.links:hover {
-    color: #000;
-    background: #F1D51C;
-    border: 1px solid #F1D51C;
+    color: #ffffff;
+    background: #ffffff;
+    border: 1px solid #ffffff;
 }
 
 .fa_custom {
@@ -93,7 +93,7 @@ a.links:hover {
 }
 
 a i:hover{
-    color: #fbdd3b;
+    color: #85512C;
 }
 
 .bottom-text {
