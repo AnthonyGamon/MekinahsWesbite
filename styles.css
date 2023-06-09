@@ -62,7 +62,7 @@ a.profile:hover{
     text-align: center;
     margin-top: 20px;
     padding: 20px;
-    border: 1px solid #89675C;
+    border: 1px solid #628F00;
     border-width: 2px;
     width: 290px;
     max-width: 60vw;
@@ -71,7 +71,7 @@ a.profile:hover{
     margin-right: auto;
     border-radius: 40px;
     text-decoration: none;
-    background-color: #89675C;
+    background-color: #628F00;
 }
 
 a {
@@ -81,8 +81,8 @@ a {
 
 a.links:hover {
     color: #000;
-    background: #E8E8E8;
-    border: 1px solid #E8E8E8;
+    background: #F1D51C;
+    border: 1px solid #F1D51C;
 }
 
 .fa_custom {
